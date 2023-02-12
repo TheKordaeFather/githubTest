@@ -36,5 +36,11 @@ class ViewController: UIViewController {
     print("Gosha")
     print("Gosha")
     print("Gosha")
+    
+    print("dima")
+    print("dima")
+    print("dima code 1")
+    print("dima")
+    print("dima")
 }
 
