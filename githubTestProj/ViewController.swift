@@ -28,5 +28,11 @@ class ViewController: UIViewController {
      dima
      code 1
      */
+    
+    print("dima")
+    print("dima")
+    print("dima code 1")
+    print("dima")
+    print("dima")
 }
 
